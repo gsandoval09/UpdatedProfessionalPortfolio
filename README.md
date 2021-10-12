@@ -14,6 +14,7 @@ This is an updated version of my past professional portfolio. This new and impor
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Bulma](https://bulma.io/documentation/overview/start/)
 
 ## Deployed Link
 
@@ -24,9 +25,9 @@ This is an updated version of my past professional portfolio. This new and impor
 
 * **George Sandoval** 
 
-- [https://gsandoval09.github.io/UpdatedProfessionalPortfolio/](#)
+- [https://gsandoval09.github.io/UpdatedProfessionalPortfolio/]
 - [www.linkedin.com/in/george-sandoval-4467641b3] My linkedin
-- [https://github.com/gsandoval09] MY github
+- [https://github.com/gsandoval09] My github
 
 
 ## License
@@ -36,5 +37,5 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 
-* Inspiration
-* etc
+* Google Fu
+* Bulma
