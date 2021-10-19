@@ -29,6 +29,11 @@ This is an updated version of my past professional portfolio. This new and impor
 - [www.linkedin.com/in/george-sandoval-4467641b3] My linkedin
 - [https://github.com/gsandoval09] My github
 
+## Snapshot
+
+
+
+
 
 ## License
 
