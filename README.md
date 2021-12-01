@@ -42,5 +42,5 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 
-* Google Fu
+* Google 
 * Bulma
